@@ -1,0 +1,283 @@
+export const translations = {
+  en: {
+    // Top Bar & Corporate Credentials
+    pwd_badge: "PREMIER MULTI-DISCIPLINARY INFRASTRUCTURE CONGLOMERATE",
+    corp_badge: "PREMIER MULTI-DISCIPLINARY INFRASTRUCTURE CONGLOMERATE",
+    hero_badge: "7 SPECIALIZED CORPORATE ENGINEERING DIVISIONS",
+    iso_badge: "ISO 9001:2015 & ISO 45001 (0.00 LTI)",
+    location_badge: "📍 Hanamkonda & Warangal Urban, Telangana",
+    field_dpr_btn: "Field DPR Desk",
+    mobile_qr_btn: "Mobile QR",
+    client_portal_btn: "Client Portal",
+    staff_login_btn: "Staff Login",
+    wings_count: "7 WINGS",
+    tagline: "Building Better Spaces, Reliable Services",
+
+    // Navigation Links
+    nav_home: "Home",
+    nav_divisions: "Divisions",
+    nav_tenders: "Govt Tenders",
+    nav_services: "Services",
+    nav_safety_qa: "Safety & QA",
+    nav_careers: "Careers",
+    nav_request: "Request Service",
+    nav_portfolio: "Portfolio",
+    nav_tracker: "Tracker",
+    nav_about: "About",
+    nav_estimator: "Estimator",
+    nav_app_view: "App View",
+    nav_web_view: "Web View",
+    hiring_badge: "HIRING",
+    class1_badge: "Class-I",
+
+    // Hero Section
+    hero_headline_1: "Engineering Iconic Spaces.",
+    hero_headline_2: "Empowering Talent.",
+    hero_subquote: '"Your Vision, Our Commitment • 100% Milestone Reliability"',
+    hero_bio: "Led by Founder & MD A. Charan Patel, AMK INFRA operates across 7 Specialized Corporate Divisions—executing commercial multi-storey towers, bespoke custom villas, government highway box canals, turnkey interiors, and 4K AI security across Telangana.",
+    explore_by_wing: "Explore by Corporate Wing:",
+    btn_client_request: "Client Service Request",
+    btn_govt_tenders: "Govt Tenders & RFP",
+    btn_join_careers: "Join Engineering Force",
+    btn_cost_estimator: "Cost Estimator",
+    track_placeholder: "Enter Tracking ID e.g. AMK-2026-1042",
+    btn_track_live: "Track Live",
+
+    // Value Checks
+    check_7_divisions: "7 Corporate Divisions",
+    check_nabl_tested: "NABL Lab Tested Steel/RCC",
+    check_solvency: "₹25 Cr Bank Solvency",
+    check_mobile_sync: "Mobile App Live Sync",
+
+    // Metrics Card
+    founder_name: "A. Charan Patel",
+    founder_title: "Founder & Managing Director",
+    founder_verified: "100% Class-I Verified",
+    stat_contracts: "Contracts Executed",
+    stat_contracts_sub: "Commercial & Roads",
+    stat_safety: "Safety Benchmark",
+    stat_safety_sub: "1.28M Safe Hours",
+    stat_workforce: "Active Workforce",
+    stat_workforce_sub: "Engineers & Crew",
+    stat_handover: "On-Time Handover",
+    stat_handover_sub: "Contract Guarantee",
+    field_intranet_title: "Field Staff Intranet",
+    field_intranet_desc: "File Daily Progress Reports & Toolbox Talks",
+    btn_open_dpr: "Open DPR",
+    companion_app_title: "Companion Mobile App",
+    companion_app_desc: "Pair iOS / Android for site cameras & alerts",
+    btn_pair_qr: "Pair QR",
+    direct_hotline: "Direct MD Hotline",
+    btn_book_consultation: "Book Consultation",
+
+    // 3D Background HUD & Site Controls
+    hud_site_status: "LIVE 3D CONSTRUCTION SITE MONITOR",
+    hud_crane_active: "Tower Cranes Active • 360° Slew",
+    hud_camera_tilt: "Interactive 3D View • Move Cursor / Drag",
+    hud_speed: "Speed",
+    hud_night_mode: "Site Lighting",
+    hud_structural_grid: "Structural Rebar Mesh Active",
+
+    // Divisions Names
+    div_civil: "Civil Infrastructure & Commercial",
+    div_villas: "Luxury Residential & Bespoke Villas",
+    div_heavy: "Heavy Roads & Canal Infrastructure",
+    div_interiors: "Luxury Living, Interiors & Turnkey 3D",
+    div_power: "Electrical Grids & Smart Power Grid",
+    div_security: "4K CCTV & AI Shield Security",
+    div_paint: "Surface Protection, Royale Paint & Waterproofing",
+
+    // Languages
+    lang_en: "English",
+    lang_te: "తెలుగు (Telugu)",
+    lang_hi: "हिन्दी (Hindi)"
+  },
+
+  te: {
+    // Top Bar & Corporate Credentials
+    pwd_badge: "అగ్రగామి మల్టీ-డిసిప్లినరీ ఇన్‌ఫ్రాస్ట్రక్చర్ సంస్థ",
+    corp_badge: "అగ్రగామి మల్టీ-డిసిప్లినరీ ఇన్‌ఫ్రాస్ట్రక్చర్ సంస్థ",
+    hero_badge: "7 ప్రత్యేక కార్పొరేట్ ఇంజనీరింగ్ విభాగాలు",
+    iso_badge: "ISO 9001:2015 & ISO 45001 (0.00 LTI భద్రత)",
+    location_badge: "📍 హనుమకొండ & వరంగల్ అర్బన్, తెలంగాణ",
+    field_dpr_btn: "ఫీల్డ్ DPR డెస్క్",
+    mobile_qr_btn: "మొబైల్ QR",
+    client_portal_btn: "క్లయింట్ పోర్టల్",
+    staff_login_btn: "స్టాఫ్ లాగిన్",
+    wings_count: "7 విభాగాలు",
+    tagline: "నాణ్యమైన నిర్మాణం, నమ్మకమైన సేవలు",
+
+    // Navigation Links
+    nav_home: "హోమ్",
+    nav_divisions: "విభాగాలు",
+    nav_tenders: "ప్రభుత్వ టెండర్లు",
+    nav_services: "సేవలు",
+    nav_safety_qa: "భద్రత & నాణ్యత",
+    nav_careers: "ఉద్యోగాలు",
+    nav_request: "ప్రాజెక్ట్ వినతి",
+    nav_portfolio: "పోర్ట్‌ఫోలియో",
+    nav_tracker: "ట్రాకర్",
+    nav_about: "మా గురించి",
+    nav_estimator: "ఎస్టిమేటర్",
+    nav_app_view: "యాప్ వ్యూ",
+    nav_web_view: "వెబ్ వ్యూ",
+    hiring_badge: "నియామకాలు",
+    class1_badge: "క్లాస్-I",
+
+    // Hero Section
+    hero_headline_1: "అత్యుత్తమ నిర్మాణాలు.",
+    hero_headline_2: "నైపుణ్యాల సాధికారత.",
+    hero_subquote: '"మీ సంకల్పం, మా నిబద్ధత • 100% గడువులోగా నిర్మాణం"',
+    hero_bio: "వ్యవస్థాపకులు & ఎండీ ఎ. చరణ్ పటేల్ గారి నాయకత్వంలో, AMK INFRA 7 ప్రత్యేక కార్పొరేట్ విభాగాల ద్వారా వాణిజ్య భవనాలు, విలాసవంతమైన విల్లాలు, ప్రభుత్వ రహదారులు, ఇంటీరియర్స్ మరియు 4K AI సెక్యూరిటీ పనులను తెలంగాణ అంతటా విజయవంతంగా నిర్మిస్తోంది.",
+    explore_by_wing: "కార్పొరేట్ విభాగాల వివరాలు:",
+    btn_client_request: "క్లయింట్ సర్వీస్ రిక్వెస్ట్",
+    btn_govt_tenders: "ప్రభుత్వ టెండర్లు & RFP",
+    btn_join_careers: "ఇంజనీరింగ్ బృందంలో చేరండి",
+    btn_cost_estimator: "ఖర్చు ఎస్టిమేటర్",
+    track_placeholder: "ట్రాకింగ్ ఐడీ ఎంటర్ చేయండి e.g. AMK-2026-1042",
+    btn_track_live: "లైవ్ ట్రాక్ చేయండి",
+
+    // Value Checks
+    check_7_divisions: "7 ప్రత్యేక విభాగాలు",
+    check_nabl_tested: "NABL ల్యాబ్ సర్టిఫైడ్ స్టీల్ & కాంక్రీట్",
+    check_solvency: "₹25 కోట్ల బ్యాంక్ సాల్వెన్సీ",
+    check_mobile_sync: "మొబైల్ యాప్ లైవ్ సింక్",
+
+    // Metrics Card
+    founder_name: "ఎ. చరణ్ పటేల్",
+    founder_title: "వ్యవస్థాపకులు & మేనేజింగ్ డైరెక్టర్",
+    founder_verified: "100% క్లాస్-I ధృవీకరించబడింది",
+    stat_contracts: "పూర్తయిన ప్రాజెక్టులు",
+    stat_contracts_sub: "వాణిజ్య & రహదారులు",
+    stat_safety: "భద్రతా ప్రమాణం",
+    stat_safety_sub: "1.28M సురక్షిత పని గంటలు",
+    stat_workforce: "కార్యాచరణ బృందం",
+    stat_workforce_sub: "ఇంజనీర్లు & సిబ్బంది",
+    stat_handover: "ఖచ్చితమైన సమయానికి",
+    stat_handover_sub: "కాంట్రాక్ట్ గ్యారెంటీ",
+    field_intranet_title: "ఫీల్డ్ స్టాఫ్ ఇంట్రానెట్",
+    field_intranet_desc: "రోజువారీ పురోగతి నివేదికలు (DPR) & టూల్‌బాక్స్ మీటింగ్స్",
+    btn_open_dpr: "DPR ఓపెన్",
+    companion_app_title: "మొబైల్ కంపానియన్ యాప్",
+    companion_app_desc: "సైట్ కెమెరాలు మరియు హెచ్చరికల కోసం iOS / Android అనుసంధానం",
+    btn_pair_qr: "QR జతచేయి",
+    direct_hotline: "ఎండీ డైరెక్ట్ హాట్‌లైన్",
+    btn_book_consultation: "సలహా కోసం సంప్రదించండి",
+
+    // 3D Background HUD & Site Controls
+    hud_site_status: "లైవ్ 3D నిర్మాణ సైట్ మానిటర్",
+    hud_crane_active: "టవర్ క్రేన్లు యాక్టివ్ • 360° భ్రమణం",
+    hud_camera_tilt: "ఇంటరాక్టివ్ 3D వ్యూ • మౌస్ కదపండి / డ్రాగ్ చేయండి",
+    hud_speed: "స్పీడ్",
+    hud_night_mode: "సైట్ లైటింగ్",
+    hud_structural_grid: "స్ట్రక్చరల్ రీబార్ మెష్ యాక్టివ్",
+
+    // Divisions Names
+    div_civil: "సివిల్ ఇన్‌ఫ్రాస్ట్రక్చర్ & కమర్షియల్ వింగ్",
+    div_villas: "లగ్జరీ రెసిడెన్షియల్ & కస్టమ్ విల్లాస్ వింగ్",
+    div_heavy: "భారీ రహదారులు & కాలువల ఇన్‌ఫ్రాస్ట్రక్చర్",
+    div_interiors: "విలాసవంతమైన ఇంటీరియర్స్ & టర్న్‌కీ 3D డిజైన్",
+    div_power: "ఎలక్ట్రికల్ గ్రిడ్స్ & స్మార్ట్ పవర్ ఆటోమేషన్",
+    div_security: "4K CCTV & AI సెక్యూరిటీ షీల్డ్",
+    div_paint: "రాయల్ పెయింటింగ్ & వాటర్‌ప్రూఫింగ్ వింగ్",
+
+    // Languages
+    lang_en: "English",
+    lang_te: "తెలుగు (Telugu)",
+    lang_hi: "हिन्दी (Hindi)"
+  },
+
+  hi: {
+    // Top Bar & Corporate Credentials
+    pwd_badge: "अग्रणी मल्टी-डिसिप्लिनरी इंफ्रास्ट्रक्चर समूह",
+    corp_badge: "अग्रणी मल्टी-डिसिप्लिनरी इंफ्रास्ट्रक्चर समूह",
+    hero_badge: "7 विशिष्ट कॉर्पोरेट इंजीनियरिंग प्रभाग",
+    iso_badge: "ISO 9001:2015 एवं ISO 45001 (0.00 LTI सुरक्षा)",
+    location_badge: "📍 हनमकोंडा व वारंगल अर्बन, तेलंगाना",
+    field_dpr_btn: "फील्ड DPR डेस्क",
+    mobile_qr_btn: "मोबाइल QR",
+    client_portal_btn: "क्लाइंट पोर्टल",
+    staff_login_btn: "स्टाफ लॉगिन",
+    wings_count: "7 प्रभाग",
+    tagline: "बेहतरीन निर्माण, विश्वसनीय सेवाएं",
+
+    // Navigation Links
+    nav_home: "होम",
+    nav_divisions: "प्रभाग",
+    nav_tenders: "सरकारी टेंडर",
+    nav_services: "सेवाएं",
+    nav_safety_qa: "सुरक्षा व गुणवत्ता",
+    nav_careers: "करियर",
+    nav_request: "प्रोजेक्ट अनुरोध",
+    nav_portfolio: "पोर्टफोलियो",
+    nav_tracker: "ट्रैकर",
+    nav_about: "हमारे बारे में",
+    nav_estimator: "लागत अनुमानक",
+    nav_app_view: "ऐप व्यू",
+    nav_web_view: "वेब व्यू",
+    hiring_badge: "भर्ती जारी",
+    class1_badge: "क्लास-I",
+
+    // Hero Section
+    hero_headline_1: "उत्कृष्ट निर्माण का नया युग.",
+    hero_headline_2: "प्रतिभा का सशक्तिकरण.",
+    hero_subquote: '"आपका दृष्टिकोण, हमारा संकल्प • 100% समय पर पूर्णता"',
+    hero_bio: "संस्थापक एवं प्रबंध निदेशक ए. चरण पटेल के नेतृत्व में, AMK INFRA 7 विशिष्ट कॉर्पोरेट प्रभागों के माध्यम से बहुमंजिला वाणिज्यिक टावर, विला, सरकारी राजमार्ग व नहरें, आधुनिक इंटीरियर और 4K सुरक्षा प्रणालियों का निर्माण पूरे तेलंगाना में करता है।",
+    explore_by_wing: "कॉर्पोरेट विंग के अनुसार देखें:",
+    btn_client_request: "क्लाइंट सर्विस अनुरोध",
+    btn_govt_tenders: "सरकारी टेंडर व RFP",
+    btn_join_careers: "इंजीनियरिंग टीम में शामिल हों",
+    btn_cost_estimator: "लागत कैलकुलेटर",
+    track_placeholder: "ट्रैकिंग आईडी दर्ज करें e.g. AMK-2026-1042",
+    btn_track_live: "लाइव ट्रैक करें",
+
+    // Value Checks
+    check_7_divisions: "7 विशेष कॉर्पोरेट विंग",
+    check_nabl_tested: "NABL लैब प्रमाणित स्टील व कंक्रीट",
+    check_solvency: "₹25 करोड़ बैंक सॉल्वेंसी",
+    check_mobile_sync: "मोबाइल ऐप लाइव सिंक",
+
+    // Metrics Card
+    founder_name: "ए. चरण पटेल",
+    founder_title: "संस्थापक एवं प्रबंध निदेशक",
+    founder_verified: "100% क्लास-I सत्यापित",
+    stat_contracts: "पूर्ण किए गए प्रोजेक्ट्स",
+    stat_contracts_sub: "वाणिज्यिक व सड़कें",
+    stat_safety: "सुरक्षा मानक",
+    stat_safety_sub: "1.28M सुरक्षित कार्य घंटे",
+    stat_workforce: "सक्रिय कार्यबल",
+    stat_workforce_sub: "इंजीनियर्स व श्रमिक दल",
+    stat_handover: "समय पर पूर्ण सुपुर्दगी",
+    stat_handover_sub: "अनुबंध गारंटी",
+    field_intranet_title: "फील्ड स्टाफ इंट्रानेट",
+    field_intranet_desc: "दैनिक प्रगति रिपोर्ट (DPR) एवं सुरक्षा टूलबॉक्स वार्ता",
+    btn_open_dpr: "DPR खोलें",
+    companion_app_title: "कंपैनियन मोबाइल ऐप",
+    companion_app_desc: "साइट कैमरों और अलर्ट्स के लिए iOS / Android को पेयर करें",
+    btn_pair_qr: "QR पेयर करें",
+    direct_hotline: "प्रबंध निदेशक डायरेक्ट हॉटलाइन",
+    btn_book_consultation: "परामर्श बुक करें",
+
+    // 3D Background HUD & Site Controls
+    hud_site_status: "लाइव 3D कंस्ट्रक्शन साइट मॉनिटर",
+    hud_crane_active: "टावर क्रेन सक्रिय • 360° घूर्णन",
+    hud_camera_tilt: "इंटरैक्टिव 3D व्यू • कर्सर घुमाएं / ड्रैग करें",
+    hud_speed: "गति",
+    hud_night_mode: "साइट लाइटिंग",
+    hud_structural_grid: "स्ट्रक्चरल सरिया मेष सक्रिय",
+
+    // Divisions Names
+    div_civil: "सिविल इंफ्रास्ट्रक्चर व वाणिज्यिक निर्माण",
+    div_villas: "लक्ज़री आवासीय एवं कस्टम विला",
+    div_heavy: "भारी सड़कें व शहरी नहर परियोजनाएं",
+    div_interiors: "लक्ज़री इंटीरियर एवं टर्नकी 3D डिजाइन",
+    div_power: "विद्युत ग्रिड एवं स्मार्ट पावर ग्रिड",
+    div_security: "4K सीसीटीवी एवं एआई सुरक्षा शील्ड",
+    div_paint: "रॉयल पेंटिंग एवं वाटरप्रूफिंग प्रभाग",
+
+    // Languages
+    lang_en: "English",
+    lang_te: "తెలుగు (Telugu)",
+    lang_hi: "हिन्दी (Hindi)"
+  }
+};
